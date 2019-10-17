@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120" started-at="2019-09-20T23:57:19Z" finished-at="2019-09-20T23:57:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120" started-at="2019-09-20T23:57:19Z" finished-at="2019-09-20T23:57:19Z">
+      <class name="Basic_rav.Testttrr">
+        <test-method status="PASS" signature="b()[pri:0, instance:Basic_rav.Testttrr@10399e]" name="b" is-config="true" duration-ms="27" started-at="2019-09-20T16:57:19Z" finished-at="2019-09-20T16:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="a()[pri:0, instance:Basic_rav.Testttrr@10399e]" name="a" duration-ms="20" started-at="2019-09-20T16:57:19Z" finished-at="2019-09-20T16:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="c()[pri:0, instance:Basic_rav.Testttrr@10399e]" name="c" is-config="true" duration-ms="2" started-at="2019-09-20T16:57:19Z" finished-at="2019-09-20T16:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- Basic_rav.Testttrr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
